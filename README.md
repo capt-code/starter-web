@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-this is a simple website    adding a line for rebasing example
+this is a simple website    adding a line for rebasing example  , then
+more changes from myfeature branch tgoo
 
 ##Introduciton
 example introduciton added here
