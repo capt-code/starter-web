@@ -3,6 +3,7 @@
 this is a simple website 
 
 ##Introduciton
+example introduciton added here
 
 
 ## Purpose
