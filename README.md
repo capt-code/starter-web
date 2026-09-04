@@ -14,3 +14,7 @@ This is the purpose revision
 
 ## Deployment
 this is a simple deployment addition
+
+
+
+copyright 2026
