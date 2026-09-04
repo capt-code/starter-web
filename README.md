@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-this is a simple website 
+this is a simple website    adding a line for rebasing example
 
 ##Introduciton
 example introduciton added here
