@@ -8,8 +8,9 @@ example introduciton added here
 
 ## Purpose
 
-Sample website with plenty of files for demos
-
+This is the purpose revision
 ## How To  Contribute
 
+
 ## Deployment
+this is a simple deployment addition
